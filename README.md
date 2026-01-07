@@ -8,10 +8,7 @@
 - 📫 Contate-me no e-mail: brunoarfontenele@gmail.com
 
   ##
-  <div>
-  <a href="https://github.com/BrunnoFontenele"> 
-<img height="42%" src="https://github-readme-stats.vercel.app/api?username=BrunnoFontenele&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="50%
-" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunnoFontenele&layout=compact&langs_count=16&theme=dark"/>
-</div>
+ <a href="https://github.com/BrunnoFontenele">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunnoFontenele&theme=dark" alt="GitHub Streak" />
+</a>
 
