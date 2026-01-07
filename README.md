@@ -3,12 +3,14 @@
 </h1>
 <h3>Desenvolvedor Java-End </h3>
 
+##
+
 - 🔭 Em busca de emprego na área de tecnologia
 - 🌱 Estou estudando Java
 - 📫 Contate-me no e-mail: brunoarfontenele@gmail.com
 
-##
-  
+## 
+
 <a href="https://github.com/BrunnoFontenele">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunnoFontenele&theme=dark" alt="GitHub Streak" />
 </a>
